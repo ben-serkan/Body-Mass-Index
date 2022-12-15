@@ -1,2 +1,2 @@
 # Body-Mass-Index
-Projede HTML, CSS ve JavaScript kullanarak "Vücut Kitle İndeksi" hesaplamasını yapmaya çalıştım. 
+Bu benim GitHub'a yükleyeceğim ilk projem. Projede HTML, CSS ve JavaScript kullanarak "Vücut Kitle İndeksi" hesaplamasını yapmaya çalıştım. Her ne kadar YouTube üzerinden izleyerek kodladığım bir örneği ekliyor olsam da kendimce birtakım ufak özellikler ekledim. Zira kendi dandik kodlama örneklerimi yüklemeye çekiniyorum ve yükleyeceğim örneklerin GitHub'a layık olmasını istiyorum. 
