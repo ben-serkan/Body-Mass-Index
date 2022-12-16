@@ -1,10 +1,10 @@
 /* Import Google Font - Poppins */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 
 * {
   margin: 0;
   padding: 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 body {
@@ -217,13 +217,13 @@ button.calculate:hover {
 }
 
 /* On mouse-over, add a grey background color */
-.gender .container:hover input~.checkmark {
+.gender .container:hover input ~ .checkmark {
   background-color: #ccc;
 }
 
 /* When the radio button is checked, add a blue background */
-.gender .container input:checked~.checkmark {
-  background-color: #2196F3;
+.gender .container input:checked ~ .checkmark {
+  background-color: #2196f3;
 }
 
 /* Create the indicator (the dot/circle - hidden when not checked) */
@@ -234,7 +234,7 @@ button.calculate:hover {
 }
 
 /* Show the indicator (dot/circle) when checked */
-.gender .container input:checked~.checkmark:after {
+.gender .container input:checked ~ .checkmark:after {
   display: block;
 }
 
@@ -295,7 +295,7 @@ button.calculate:hover {
   padding-top: 8px;
   padding-right: 5px;
   font-size: 18px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   color: rgb(24, 23, 23);
 }
 
@@ -330,11 +330,14 @@ button.calculate:hover {
     font-size: 18px;
   }
 
-  .inputH label, .inputW label {
+  .inputH label,
+  .inputW label {
     font-size: 14px;
   }
 
-  .input input, .inputH input, .inputW input {
+  .input input,
+  .inputH input,
+  .inputW input {
     font-size: 24px;
   }
 
